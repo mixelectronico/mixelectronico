@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hola! 👋
+
+# Mi nombre es David
+
+### Soy desarrollador ANDROID e ingeniero electrónico.
 
 <!--
 **mixelectronico/mixelectronico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
