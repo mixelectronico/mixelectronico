@@ -14,4 +14,4 @@
 
 ## Mis Proyectos actuales:
 
-![EarthQuakeHistory-APP](https://img.shields.io/badge/EarthQuakeHistory_APP-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)</br>
+[![EarthQuakeHistory-APP](https://img.shields.io/badge/EarthQuakeHistory_APP-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)](https://github.com/mixelectronico/EarthQuakeHistory_App)
