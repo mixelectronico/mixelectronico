@@ -2,9 +2,9 @@
 
 # Mi nombre es David
 
-### Soy desarrollador ANDROID e ingeniero electrónico.
+### Soy desarrollador de software e ingeniero electrónico.
 
-<p>Desde pequeño he tenido diferentes curiosidades con la ciencia, la computación y la tecnología por lo cual decidí estudiar electrónica, pero me di cuenta que acá en Chile no hay un campo laboral como me gustaría, así que decidí reconvertirme con la programación y el desarrollo porque desde muy joven he tenido experiencias en lenguajes de programación y trabajo en equipo mediante concursos y proyectos que apoyé tanto -por amor al arte- como también por algunos trabajos.</p>
+<p>Desde pequeño he tenido diferentes curiosidades con la ciencia, la computación y la tecnología por lo cual decidí estudiar primero telecomunicaciones y después  electrónica, pero me di cuenta que acá en Chile no hay un campo laboral como me gustaría, así que decidí reconvertirme con la programación y el desarrollo de software porque desde muy joven he tenido experiencias en lenguajes de programación y trabajo en equipo mediante concursos y proyectos muy pequeños que apoyé tanto -por amor al arte- como también por algunos trabajos.</p>
 
 ## Competencias:
 ![Java](https://img.shields.io/badge/Java-3DDC84?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)</br>
